@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">HBD Sanju</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="button_title">Be wished!Click here</string>
+    <string name="notification_title">Happy BirthDay Sanju</string>
+    <string name="notification_subject">GHappy Birthday</string>
+    <string name="ticker_count_label">My timely wish number</string>
+
+
+</resources>
